@@ -543,20 +543,20 @@
           },
           {
             "position": {
-              "x": 645,
-              "y": 335
+              "x": 610,
+              "y": 280
             },
             "size": {
-              "width": 130,
-              "height": 90
+              "width": 200,
+              "height": 200
             },
             "attrs": {
               "text": {
                 "text": "Backend Dokumen"
               },
               "body": {
-                "stroke": "#333333",
-                "strokeWidth": 1.5,
+                "stroke": "red",
+                "strokeWidth": 2.5,
                 "strokeDasharray": null
               }
             },
@@ -715,12 +715,10 @@
                 "text": "Database Metadata"
               },
               "topLine": {
-                "stroke": "#333333",
                 "strokeWidth": 1.5,
                 "strokeDasharray": null
               },
               "bottomLine": {
-                "stroke": "#333333",
                 "strokeWidth": 1.5,
                 "strokeDasharray": null
               }
@@ -855,12 +853,10 @@
                 "text": "Object Storage"
               },
               "topLine": {
-                "stroke": "#333333",
                 "strokeWidth": 1.5,
                 "strokeDasharray": null
               },
               "bottomLine": {
-                "stroke": "#333333",
                 "strokeWidth": 1.5,
                 "strokeDasharray": null
               }
@@ -986,7 +982,6 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 1.5,
                 "targetMarker": {
                   "name": "block"
                 },
@@ -1059,8 +1054,8 @@
             },
             "vertices": [
               {
-                "x": 464,
-                "y": 174
+                "x": 434,
+                "y": 114
               }
             ]
           },
@@ -1069,7 +1064,6 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 1.5,
                 "targetMarker": {
                   "name": "block"
                 },
@@ -1129,8 +1123,8 @@
             },
             "vertices": [
               {
-                "x": 426,
-                "y": 261
+                "x": 396,
+                "y": 201
               }
             ]
           },
@@ -1139,7 +1133,6 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 1.5,
                 "targetMarker": {
                   "name": "block"
                 },
@@ -1199,8 +1192,8 @@
             },
             "vertices": [
               {
-                "x": 412,
-                "y": 332
+                "x": 382,
+                "y": 272
               }
             ]
           },
@@ -1209,7 +1202,6 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 1.5,
                 "targetMarker": {
                   "name": "block"
                 },
@@ -1269,8 +1261,8 @@
             },
             "vertices": [
               {
-                "x": 412,
-                "y": 428
+                "x": 382,
+                "y": 368
               }
             ]
           },
@@ -1279,7 +1271,6 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 1.5,
                 "targetMarker": {
                   "name": "block"
                 },
@@ -1339,8 +1330,8 @@
             },
             "vertices": [
               {
-                "x": 426,
-                "y": 499
+                "x": 396,
+                "y": 439
               }
             ]
           },
@@ -1349,7 +1340,6 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 1.5,
                 "targetMarker": {
                   "name": "block"
                 },
@@ -1409,8 +1399,8 @@
             },
             "vertices": [
               {
-                "x": 464,
-                "y": 586
+                "x": 434,
+                "y": 526
               }
             ]
           },
@@ -1419,7 +1409,6 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 1.5,
                 "targetMarker": {
                   "name": "block"
                 },
@@ -1479,8 +1468,8 @@
             },
             "vertices": [
               {
-                "x": 937,
-                "y": 220
+                "x": 907,
+                "y": 160
               }
             ]
           },
@@ -1489,7 +1478,6 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 1.5,
                 "targetMarker": {
                   "name": "block"
                 },
@@ -1549,8 +1537,8 @@
             },
             "vertices": [
               {
-                "x": 988,
-                "y": 300
+                "x": 958,
+                "y": 240
               }
             ]
           },
@@ -1559,7 +1547,6 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 1.5,
                 "targetMarker": {
                   "name": "block"
                 },
@@ -1619,8 +1606,8 @@
             },
             "vertices": [
               {
-                "x": 988,
-                "y": 460
+                "x": 958,
+                "y": 400
               }
             ]
           },
@@ -1629,7 +1616,6 @@
             "attrs": {
               "line": {
                 "stroke": "#333333",
-                "strokeWidth": 1.5,
                 "targetMarker": {
                   "name": "block"
                 },
@@ -1689,8 +1675,8 @@
             },
             "vertices": [
               {
-                "x": 937,
-                "y": 540
+                "x": 907,
+                "y": 480
               }
             ]
           }
